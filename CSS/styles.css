@@ -1,0 +1,244 @@
+body {
+  margin: 0;
+  background-color: #f0f5f9;
+  text-align: center;
+  font-family: 'Courier Prime', monospace;
+}
+
+h1 {
+  font-family: 'Shadows Into Light', cursive;
+}
+h2 {
+  padding-top:25px;
+}
+hr {
+  border: 0;
+  border-top: 5px;
+  width: 10%;
+  border-style: dotted;
+}
+p {
+  font-size: 18px;
+}
+.topHr {
+  margin-top: 50px;
+}
+.contact-me {
+  margin-top: 20px;
+}
+.footerElements {
+  margin: auto;
+}
+.footer {
+  margin-top: 50px;
+ font-family: courier;
+ background-color: #1e2022;
+ color: #f0f5f9;
+ height: 75px;
+ 
+}
+.fa-linkedin {
+  color: #f0f5f9;
+  background:#007bb5;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: #f0f5f9;
+}
+.fa {
+  padding: 10px;
+  font-size: 15px;
+  width: 25px;
+  text-decoration: none;
+  margin: 25px 2px;
+  margin-bottom: -25px;
+
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.btn {
+    color: #f0f5f9;
+  }
+
+.body {
+  background-color: #c9d6df;
+  position: relative;
+  bottom: 21.44px;
+}
+
+.header {
+  background-color: #1e2022;
+  color: #c9d6df;
+  height: 50px;
+}
+
+.header-link {
+  color: #f0f5f9;
+  text-decoration: none;
+  padding: 15px;
+}
+.header-link:hover {
+  opacity: 0.7;
+  font-weight: bold;
+}
+.arc {
+  font-style: italic;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.sf {
+  position: relative;
+  top: 93.5px;
+  
+}
+
+.cloud {
+  position: absolute;
+  display: inline-block;
+  bottom: 400px;
+  left:15%;
+}
+
+.cloud2 {
+  position: absolute;
+  display: inline-block;
+  bottom: 500px;
+  right: 15%;
+}
+
+.myname {
+  position: relative;
+  top: 50px;
+  font-size: 75px;
+  margin-top: 21.44px;
+}
+
+.myjob {
+  position: relative;
+  top: 50px;
+  font-size: 20px;
+}
+
+.profile2 {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  position: relative;
+  margin-top: 50px;
+}
+
+
+
+.home {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+ 
+}
+.code {
+  border-radius: 50%;
+  width:100px;
+  height:100px;
+  padding-top: 25px;
+}
+.sketch {
+  position:relative;
+  display: inline-block;
+  width:120px;
+}
+.heart {
+  position:relative;
+  display: inline-block;
+  width:120px;
+}
+.askills {
+
+padding-top: 25px;
+}
+.in {
+  margin-top: 125px;
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: bolder;
+}
+.colorskills {
+  background-color: #f0f5f9;
+  margin: 50px 0 50px 0;
+}
+.skills {
+
+  margin: 0 200px 0 200px;
+  background-color: #c9d6df;
+  height: 850px;
+ 
+}
+.toto {
+  text-decoration: none;
+  color: #f0f5f9;
+}
+.namebox {
+  background-color:#c9d6df ;
+  width: 500px;
+ 
+}
+.contact-position {
+  margin-top: 50px;
+}
+.comment {
+  background-color: #c9d6df;
+  width: 500px;
+  height: 100px;
+ 
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+.submit {
+  background-color: #c9d6df;
+ 
+}
+.submit:hover {
+  font-weight: bold;
+}
+.submit :focus {
+  border-style: solid;
+}
+.container {
+  margin-top: 100px;
+  
+}
+.row-2 {
+  margin-top: 50px;
+}
+.photo-1 {
+  width: 350px;
+  height: 150px;
+}
+.photo-2 {
+  text-align: center;
+margin-top: 50px;
+color: #1e2022;
+}
+  .photo-2:hover {
+    transform: rotate(30deg);
+    color: #1e2022;
+  }
+  
+  .photo-3 {
+    width: 350px;
+    height: 150px;
+  }
+  .portfolio {
+    font-weight: 600;
+    font-size: 2em;
+    margin-top: 21.44px;
+  }
+  h3 {
+    font-weight: 600;
+  }
