@@ -1,7 +1,5 @@
 /* Header and Title */
-a {
-    color: #59544F;
-}
+
 body {
     font-family: 'Ubuntu', sans-serif;
     font-family: 'Montserrat', sans-serif;
@@ -50,11 +48,6 @@ padding: 0 0 4.5rem;
   color: #59544F;
 }
 
-/* download buttons */
-.download-button {
-    margin: 5% 3% 5% 0%;
-}
-
 /* title image */
 #profile-photo {
     border-radius:50%;
@@ -74,7 +67,7 @@ h3 {
    margin: 1.2rem 0 1.2rem 0;
 }
 hr {
-    border-top: 10px solid #ff4c68;
+    border-top: 10px solid #262321;
 }
 .features {
 font-weight: 500;
