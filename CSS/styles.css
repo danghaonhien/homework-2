@@ -86,10 +86,17 @@ font-weight: 500;
     color:#59544F;
 }
 
+.render {
+    width:750px ;
+    height: 350px;
+}
 
-
-
-
+.textRotate {
+ 
+}
+.contactBG {
+    background-color: #262321;
+}
 /* Color Theme Swatches in Hex */
 .BRUTALIST-SILENCE-1-hex { color: #A1A67C; }
 .BRUTALIST-SILENCE-2-hex { color: #8C8881; }
