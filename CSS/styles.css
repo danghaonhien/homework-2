@@ -1,4 +1,7 @@
 /* Header and Title */
+a{
+    color: #262321;
+}
 a:hover {
     color:#A6A6A6;
     font-style: italic;
@@ -136,6 +139,14 @@ width: 600px;
     top: 16px;
     color: #8C8881;
     height: 50px;
+}
+
+.titleP{
+    color: #59544F;
+}
+.bodyP {
+    background-color: #262321;
+    color: #59544F;
 }
 /* Color Theme Swatches in Hex */
 .BRUTALIST-SILENCE-1-hex { color: #A1A67C; }
