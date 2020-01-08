@@ -148,6 +148,11 @@ width: 600px;
     background-color: #262321;
     color: #59544F;
 }
+
+.submit {
+    background-color: #8C8881;
+    border: #8C8881;
+}
 /* Color Theme Swatches in Hex */
 .BRUTALIST-SILENCE-1-hex { color: #A1A67C; }
 .BRUTALIST-SILENCE-2-hex { color: #8C8881; }
