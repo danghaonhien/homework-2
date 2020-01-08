@@ -34,6 +34,7 @@ h2 {
 .navbar {
 padding: 0 0 4.5rem;
 }
+
 .navbar-brand {
     font-family: 'Ubuntu', sans-serif;
     font-size: 2.5rem;
@@ -96,6 +97,45 @@ font-weight: 500;
 }
 .contactBG {
     background-color: #262321;
+}
+
+.namebox {
+    margin-left: 50px;
+    width: 300px;
+    background-color: #8C8881;
+    border: #8C8881;
+}
+.comment {
+    margin-left: 50px;
+    width: 300px;
+    height: 100px;
+    background-color: #8C8881;
+    border: #8C8881;
+}
+.submit {
+    margin-top: 25px;
+}
+
+.photo-1 {
+
+height: 300px;
+width: 600px;
+}
+.photo-2 {
+
+height: 300px;
+width: 600px;
+}
+.photo-3 {
+
+height: 300px;
+width: 600px;
+}
+#footer {
+    background-color:#262321 ;
+    top: 16px;
+    color: #8C8881;
+    height: 50px;
 }
 /* Color Theme Swatches in Hex */
 .BRUTALIST-SILENCE-1-hex { color: #A1A67C; }
